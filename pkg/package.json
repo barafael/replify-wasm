@@ -1,0 +1,16 @@
+{
+  "name": "replify-example",
+  "collaborators": [
+    "Rafael Bachmann <rafael.bachmann.93@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "files": [
+    "replify_example_bg.wasm",
+    "replify_example.js",
+    "replify_example.d.ts"
+  ],
+  "module": "replify_example.js",
+  "types": "replify_example.d.ts",
+  "sideEffects": false
+}
