@@ -106,13 +106,13 @@ section.messages div.message-input {
     background: url("https://upload.wikimedia.org/wikipedia/commons/b/b3/Paper-plane_font_awesome_white.svg"), #34495e;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 35px;
+    background-size: 25px;
     transition: background .1s;
 }
 
 #btn:focus,
 #btn:hover {
-    background-size: 40px;
+    background-size: 30px;
     outline: none;
 }
 
